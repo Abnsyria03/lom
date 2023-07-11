@@ -17,7 +17,7 @@ class Data:
         generate_single_button,
         [
             InlineKeyboardButton(
-                "سـوࢪس سيمثون الـعـࢪبي", url="https://t.me/X_77_Q"
+                "قناة البوت", url="https://t.me/X_77_Q"
             )
         ],
         [
