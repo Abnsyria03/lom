@@ -165,7 +165,7 @@ async def generate_session(bot, msg, telethon=False):
         pass
     await client.disconnect()
     await phone_code_msg.reply(
-        "تـم استـخـࢪاج {} اެݪجـلسة. \n\nيـࢪجـى تـفـحص اެݪࢪسائـل اެݪمحفوظـة! \n\nمن @X_77_Q".format(
+        "تـم استـخـࢪاج {} اެݪجـلسة. \n\n \n\nمن @X_77_Q".format(
             "telethon" if telethon else "pyrogram"
         )
     )
