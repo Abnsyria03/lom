@@ -5,9 +5,9 @@ load_dotenv()
 
 API_ID = os.getenv("API_ID", "19312827").strip()
 API_HASH = os.getenv("API_HASH", "84da7f08e87849853b2fa6728e4192a2").strip()
-BOT_TOKEN = os.getenv("BOT_TOKEN", "6386097799:AAE5T8GJS4_qy4R7f7NlWATB1xsLWT179v4").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "6393408870:AAHLsDNW-rRxNxish9Wa-ppc1ieMoBxwk14").strip()
 DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
-MUST_JOIN = os.getenv("MUST_JOIN", "https://t.me/X_77_P")
+MUST_JOIN = os.getenv("MUST_JOIN", "https://t.me/Y66YY66")
 
 if not API_ID:
     print("No API_ID found. Exiting...")
